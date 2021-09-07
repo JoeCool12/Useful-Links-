@@ -2,6 +2,10 @@
 
 -ZTM Cheat Sheets/Resources: https://zerotomastery.io/resources/?utm_source=pdf_content&utm_medium=pdf_link&utm_campaign=learntocode2021 
 
+-Feyman Technique: https://medium.com/taking-note/learning-from-the-feynman-technique-5373014ad230
+
+-CS 50 course: https://www.youtube.com/watch?v=U9o49qwa6hk&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu&index=8 
+
 -My Articles:
 
 -These Courses:
